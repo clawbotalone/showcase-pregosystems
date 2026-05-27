@@ -1,0 +1,16 @@
+{
+  "name": "Prego Systems Showcase",
+  "short_name": "Showcase",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08070D",
+  "theme_color": "#08070D",
+  "description": "Showcase · Spektakularne spletne strani, ki elektrificirajo blagovne znamke.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjExMiIgZmlsbD0iIzA4MDcwRCIvPjxwYXRoIGQ9Ik0xNzggMTQ0djIyNGg0OHYtNzJoNDBjNDggMCA4MC0yNCA4MC03NnMtMzItNzYtODAtNzZIMTc4em00OCA0MGgzMmMyNCAwIDQwIDEyIDQwIDM2cy0xNiAzNi00MCAzNmgtMzJ2LTcyeiIgZmlsbD0iI0I0RkYwMCIvPjwvc3ZnPg==",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

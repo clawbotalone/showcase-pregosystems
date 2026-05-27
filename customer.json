@@ -1,0 +1,13 @@
+{
+  "slug": "showcase-pregosystems",
+  "name": "Prego Systems — Showcase demo",
+  "canonical": "showcase.pregosystems.com",
+  "style_anchor": "showcase",
+  "intensity_level": 5,
+  "kind": "internal_demo",
+  "language": "sl",
+  "lime_booking_url": "https://form.lime-booking.com/en/lime-demo-saloni/location",
+  "palette": "void-black-acid-lime-magenta-cyan",
+  "fonts": {"display": "Bricolage Grotesque", "script": "Caveat", "body": "Plus Jakarta Sans"},
+  "predogled_badge": false
+}
